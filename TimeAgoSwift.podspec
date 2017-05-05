@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'TimeAgoSwift'
-  s.version = ‘1.1’
+  s.version = '1.1'
   s.license = 'Apache-2.0'
   s.summary = 'Time ago library for swift for displaying sec ago in string'
   s.homepage = 'https://www.spaceotechnologies.com/'
